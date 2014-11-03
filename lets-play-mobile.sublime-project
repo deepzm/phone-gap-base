@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"name": "Let's Play",
+			"path": ".",
+			"folder_exclude_patterns": [ "platforms", "plugins", "node_modules", "bower_components", "*.sublime", "coverage", "hooks", "lib"],
+			"file_exclude_patterns": ["*.sublime-workspace"]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2,
+		"translate_tabs_to_spaces": false
+	}
+}

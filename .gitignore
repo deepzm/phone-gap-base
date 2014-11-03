@@ -1,0 +1,18 @@
+#sublime 
+*.sublime-workspace
+
+
+#cordova android build
+platforms/**/ant-build/
+
+
+#node
+node_modules/
+
+#bower
+bower_components/
+lib/
+
+#grunt
+test/target
+test/coverage
